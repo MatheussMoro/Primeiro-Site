@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>Aulas de HTML</title>
+    </head>
+<body>
+    <h1 id="#Índice">Índice</h1>
+    <hr>    
+    <ul>
+        <li><a href="#Surgimento HTML">Surgimento HTML</a></li>
+        <li><a href="#Tag's">TAG'S</a></li>
+        <li><a href="#Atributo">Atributos Gerais</a></li>
+        <li><a href="#Link">Link</a></li>
+        <li><a href="#Listas Ordenadas">Listas Ordenadas</a></li>
+        <li><a href="#Referências Videos no Youtube">Referências Videos no Youtube</a></li>
+
+    </ul>
+    
+    <h2 id="Surgimento HTML"><strong><i>Surgimento HTML</i></h2>
+        <small><a   href="#Índice">(Voltar)</a></small>
+        <p>HTML (Hypertext Markup Language) é uma linguagem de marcação que foi desenvolvida originalmente por Tim Berners-Lee no final dos anos 1980. Berners-Lee é considerado o inventor da World Wide Web e criou o HTML como parte do conjunto de tecnologias fundamentais para compartilhar informações na web.</p>
+        <p>O surgimento do HTML está diretamente ligado à necessidade de uma linguagem padrão para estruturar e formatar documentos hipertexto. O objetivo era permitir que os documentos fossem vinculados uns aos outros por meio de links, criando uma teia de informações interconectadas. O HTML tornou-se a linguagem básica para criar páginas da web e estabelecer a estrutura dos documentos na web.</p>
+        <p>A primeira versão oficial do HTML, chamada HTML 2.0, foi lançada em 1995. Desde então, houve várias evoluções e atualizações da linguagem, com o lançamento de versões subsequentes, como HTML 3.2, HTML 4.01, XHTML 1.0 e HTML5. Cada versão trouxe melhorias e recursos adicionais para lidar com as crescentes demandas e complexidades da web.</p>
+
+    
+
+    <h2 id="Tag's"><strong><i>TAG'S</i></h2>
+        <small><a   href="#Índice">(Voltar)</a></small>
+    <p>A tag de abertura é usada para iniciar um elemento, enquanto a tag de fechamento é usada para encerrar o elemento. Entre as tags de abertura e fechamento, você pode adicionar o conteúdo que deseja que seja afetado por essa tag específica.
+    <p>É importante mencionar que as tags também podem ter atributos, que fornecem informações adicionais sobre o elemento. Os atributos são especificados dentro da tag de abertura e podem ser usados para controlar o comportamento ou a aparência do elemento. </p>
+    <p> Seguem abaixo dois exemplos mencionados na aula: </p>
+    <p><strong>"Mark"</strong> Utilizadas para grifar, marcar o texto.</p>
+    <p><strong>"Sup"</strong>  Utilizadas para deixar uma informação superior ao texto, podendo ser utilizado por exemplo uma exponenciação ou um asterisco.</p>
+
+
+
+    <h2 id="Atributo"><strong><i>Atributos Gerais</i></h2>
+        <small><a   href="#Índice">(Voltar)</a></small>
+    <p>Na HTML, os atributos são usados para fornecer informações adicionais sobre os elementos. Eles são adicionados dentro das tags de abertura e podem modificar o comportamento ou a aparência dos elementos. Aqui estão alguns atributos gerais comumente usados na HTML:
+    <p>O atributo "id" é usado para atribuir um identificador único a um elemento. Ele é frequentemente usado para selecionar o elemento usando JavaScript ou CSS.</p> 
+    <p>O atributo "class" é usado para atribuir uma ou mais classes a um elemento. As classes são usadas para agrupar elementos semelhantes e estilizá-los com CSS.</p> 
+    <p>O atributo "style" é usado para aplicar estilos inline a um elemento. Ele permite definir propriedades de estilo diretamente na tag.</p>
+    <p>O atributo "title" é usado para fornecer um texto descritivo sobre um elemento. Esse texto geralmente aparece como uma dica de ferramenta quando o usuário passa o mouse sobre o elemento.</p>
+    <p>O atributo "alt" é usado para fornecer um texto alternativo para uma imagem. Esse texto é exibido quando a imagem não pode ser carregada ou quando é acessada por leitores de tela. </p> 
+    <p>O atributo "href" é usado em elementos de âncora ("a") e indica o destino do link. Pode ser um URL, um ID de elemento ou um endereço de e-mail.</p> 
+    <p>O atributo "target" é usado em elementos de âncora ("a") para especificar como o link deve ser aberto. Pode ser definido como "_blank" para abrir em uma nova janela ou guia, ou "_self" para abrir no mesmo quadro ou guia.</p>
+    
+
+
+    <h2 id="Link"><strong>Link<i></i></h2>
+        <small><a   href="#Índice">(Voltar)</a></small>
+    <p>Em HTML, você pode criar links usando a tag "a" (âncora). Essa tag permite que você crie um hyperlink para outra página, um arquivo, uma seção da mesma página ou até mesmo um endereço de e-mail. </p>
+      
+
+
+    <h2 id="Listas Ordenadas"><strong><i>Listas Ordenadas</i></strong></h2>
+    <small><a   href="#Índice">(Voltar)</a></small>
+    <p> Em HTML, você pode criar listas ordenadas usando a tag "ol" (ordered list). As listas ordenadas são usadas quando a ordem dos itens é importante. Cada item da lista é marcado com a tag "li"" (list item)
+    
+        <h2 id="Referências Videos no Youtube"><strong><i>Referências Videos no Youtube</i></strong></h2>
+        <small><a   href="#Índice">(Voltar)</a></small>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=9gTw2EDkaDQ">Introdução ao HTML</a></li>
+            <li><a href="https://www.youtube.com/watch?v=UB1O30fR-EE">HTML Básico: Tags e Elementos</a></li>
+            <li><a href="https://www.youtube.com/watch?v=P82BFkOziGY">HTML5 e suas Novas Funcionalidades</a></li>
+        </ul>
+
+</body>    
+</html>
